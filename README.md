@@ -6,4 +6,7 @@
 
 ![Super-Linter](https://github.com/vcu-chfauerbach/test-repo1/workflows/Super-Linter/badge.svg)
 
+Hello profesor!
+I like pylint the most!
+
 Adding a change for the live demo in class.
